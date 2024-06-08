@@ -10,4 +10,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
+background: url('https://github.com/asdfugil/asdfugil/blob/master/rsod.png?raw=true');
 "]{}
